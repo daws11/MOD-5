@@ -1,4 +1,10 @@
-﻿public class SayaTubeVideo
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+public class SayaTubeVideo
 {
     int id;
     string title;
